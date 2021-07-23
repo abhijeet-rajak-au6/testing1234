@@ -6,4 +6,6 @@ some branch changed
 
 One 
 
+Two
+
 branch 2 commit 
