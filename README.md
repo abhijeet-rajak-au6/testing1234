@@ -8,4 +8,6 @@ One
 
 Two
 
+Three
+
 branch 2 commit 
